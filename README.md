@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # React Quiz App
 Too run this project first clone this project on your local system:
-Install node module buy run this command:
+Install node module by run this command:
 ```bash
 npm install
 ```
